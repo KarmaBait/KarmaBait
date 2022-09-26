@@ -7,7 +7,7 @@
 hi, i'm [Karma], a passionate self-taught developer from Germany. I currently work with Python and Java, but I love to learn any kind of programming language!
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" padding "1em" />
 
 - 💬 ask me about anything, i am happy to help;
 
