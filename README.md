@@ -4,7 +4,7 @@
 
 <br />
 
-hi, i'm [Karma], a passionate self-taught developer from Germany. I currently work with Python and Java, but I love to learn any kind of programming language!
+hi, i'm [Karma], a passionate self-taught developer from Germany. I currently work with HTML, CSS and JavaScript, but I love to learn any kind of programming language!
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" margin-left="80"/>
