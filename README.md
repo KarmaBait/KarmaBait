@@ -1,17 +1,8 @@
 <h1>Hey there!</h1>
 
-![](https://visitor-badge.glitch.me/badge?page_id=KarmaBait.KarmaBait)
+Hey! I'm Karma and I'm currently trying to become a frontend web-developer. I've started doing courses on <a href="https://codeacademy.com">Codeacademy</a>!
 
-<br />
-
-hi, i'm [Karma], a passionate self-taught developer from Germany. I currently work with HTML, CSS and JavaScript, but I love to learn any kind of programming language!
-
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" margin-left="80"/>
-
-- 💬 ask me about anything, i am happy to help;
-
-**languages and tools:**  
+**Languages and Tools I'm using:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
