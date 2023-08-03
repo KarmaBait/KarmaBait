@@ -17,15 +17,14 @@ hi, i'm [Karma], a passionate self-taught developer from Germany. I currently wo
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vscode/vscode.png"></code>
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->       
-🌸  Completed 0 tasks today           
-✅  Completed 10 tasks so far         
+🌸  Completed 3 tasks today           
+✅  Completed 13 tasks so far         
 <!-- TODO-IST:END -->
 
 
